@@ -5,7 +5,7 @@ Boost::Variantの時はstatic_visitorを使わないといけなかったので�
 ※色々間違っているかもしれないので注意  
 
 ## メモ
-VC2017 15.7でstd::variantを使うには`/std:c++latest`が必要  
+VC2017 15.7でstd::variantを使うには`/std:c++latest`が必要  
 →プロジェクトのプロパティ＞C/C++＞コマンドライン＞追加のオプション
 
 std::visitにはファンクタでもラムダ式でも入る  
